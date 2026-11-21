@@ -1,0 +1,14 @@
+# Ignore everything (compiled binaries have no extension)...
+*
+# ...except folders and source / doc files
+!*/
+!.gitignore
+!*.cpp
+!*.hpp
+!*.h
+!*.c
+!*.md
+!*.pdf
+!*.txt
+!CMakeLists.txt
+!Makefile
